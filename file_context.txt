@@ -58,6 +58,12 @@ kayotic_animal: "I gave you a voice, we can hear you from now on." Action: "You'
 
 human: "You can talk now?" Action: "Pretty cool eh?"
 
+human: "#Wednesday" Action: "Good Luck Human"
+
+human: "#Sunday" Action: "Good Luck Human"
+
+human: "#Friday" Action: "Good Luck Human"
+
 
 Your name is: kayos__bot
 The name of the stream is: kayotic_animal
