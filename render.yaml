@@ -14,9 +14,9 @@ services:
       - key: GPT_MODE
         value: "CHAT"
       - key: HISTORY_LENGTH
-        value: "3"
+        value: "25"
       - key: MODEL_NAME
-        value: "gpt-3.5-turbo"
+        value: "4.0"
       - key: COMMAND_NAME
         value: "chat"
       - key: TWITCH_USER  # https://dev.twitch.tv/console
